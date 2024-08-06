@@ -28,5 +28,3 @@ This project implements a Recurrent Neural Network (RNN) using TensorFlow to cla
 ## Results
 The RNN model effectively classifies sentiments in movie reviews, outperforming a feedforward neural network.
 
-## Conclusion
-The project highlights the strengths of RNNs in handling sequential data for sentiment analysis tasks.
